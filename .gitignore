@@ -1,0 +1,8 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore database file
+db.sqlite3
+
+# Ignore static files
+static/
